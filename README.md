@@ -61,4 +61,10 @@
   </a>
 </p>
 
+<p>
+  <a href="https://wa.me/5215636916372" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"/>
+  </a>
+</p>
+
 
